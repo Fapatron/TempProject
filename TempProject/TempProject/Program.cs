@@ -35,6 +35,7 @@ namespace TempProject
                 return c;
             }
             //return 0;
+            Console.WriteLine("new line");
         }
         static int InRange(int a, int b, int c)
         {
